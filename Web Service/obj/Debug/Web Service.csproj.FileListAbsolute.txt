@@ -37,3 +37,45 @@ D:\Study\Univer\KCPM\DA\DA on github\Source\Web Service\Web Service\bin\WebMatri
 D:\Study\Univer\KCPM\DA\DA on github\Source\Web Service\Web Service\obj\Debug\Web Service.csprojResolveAssemblyReference.cache
 D:\Study\Univer\KCPM\DA\DA on github\Source\Web Service\Web Service\obj\Debug\Web Service.dll
 D:\Study\Univer\KCPM\DA\DA on github\Source\Web Service\Web Service\obj\Debug\Web Service.pdb
+C:\Users\HA\Desktop\Github\Server1\Web Service\obj\Debug\Web Service.csprojResolveAssemblyReference.cache
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\Web Service.dll.config
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\Web Service.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\Web Service.pdb
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\EntityFramework.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\HtmlAgilityPack.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\Microsoft.Web.Helpers.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\Newtonsoft.Json.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Net.Http.Formatting.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.Cors.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.Helpers.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.Http.Cors.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.Http.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.Http.Tracing.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.Http.WebHost.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.Mvc.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.Razor.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.WebPages.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\WebMatrix.Data.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\WebMatrix.WebData.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\EntityFramework.xml
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\HtmlAgilityPack.pdb
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\HtmlAgilityPack.xml
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\Newtonsoft.Json.xml
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Net.Http.Formatting.xml
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.Helpers.xml
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.Http.xml
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.Http.Cors.xml
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.Http.Tracing.xml
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.Http.WebHost.xml
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.Mvc.xml
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.Razor.xml
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.WebPages.xml
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\WebMatrix.Data.xml
+C:\Users\HA\Desktop\Github\Server1\Web Service\bin\WebMatrix.WebData.xml
+C:\Users\HA\Desktop\Github\Server1\Web Service\obj\Debug\Web Service.dll
+C:\Users\HA\Desktop\Github\Server1\Web Service\obj\Debug\Web Service.pdb
